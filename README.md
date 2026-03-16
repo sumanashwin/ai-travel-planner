@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌍 AI Travel Planner
 
 An AI-powered travel itinerary generator built with **Gradio** and **OpenRouter**.
@@ -91,3 +92,7 @@ Cost-saving advice.
 ## 📄 License
 
 MIT License
+=======
+# ai-travel-planner
+AI Travel Planner built with Gradio and OpenRouter
+>>>>>>> 3f11c339975d6909171e413f6ccf22a5d30f2470
